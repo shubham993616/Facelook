@@ -1,0 +1,233 @@
+{
+  "color": {
+    "Deep Espresso": {
+      "$type": "color",
+      "$value": "#14100c",
+      "$description": "Primary dark background for navbar dropdown, footer, and dark section overlays"
+    },
+    "Warm Taupe": {
+      "$type": "color",
+      "$value": "#625c56",
+      "$description": "Default body text, navbar base color, hero section text color"
+    },
+    "Gold Bronze": {
+      "$type": "color",
+      "$value": "#91765a",
+      "$description": "Navigation link color, CTA accent, brand highlight color on interactive elements"
+    },
+    "Pure White": {
+      "$type": "color",
+      "$value": "#ffffff",
+      "$description": "Hero headings, dropdown link text, footer text on dark backgrounds"
+    },
+    "Warm Cream": {
+      "$type": "color",
+      "$value": "#f5eee7",
+      "$description": "Light section backgrounds, warm off-white surface areas"
+    },
+    "Light Gray": {
+      "$type": "color",
+      "$value": "#f4f4f4",
+      "$description": "Alternate section backgrounds, card surfaces"
+    },
+    "Muted Stone": {
+      "$type": "color",
+      "$value": "#aba59f",
+      "$description": "Placeholder text, secondary muted labels, form input text"
+    },
+    "Dark Charcoal": {
+      "$type": "color",
+      "$value": "#212529",
+      "$description": "Dropdown menu text, body color fallback"
+    },
+    "Ivory White": {
+      "$type": "color",
+      "$value": "#fdfbf8",
+      "$description": "Footer localized surface, subtle warm white background"
+    }
+  },
+  "typography": {
+    "Hero Headline": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Outfit",
+        "fontSize": "48px",
+        "fontWeight": 800,
+        "lineHeight": "57.6px",
+        "letterSpacing": "normal"
+      },
+      "$description": "Primary hero heading — large bold display text over photography"
+    },
+    "Section Heading Large": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Outfit",
+        "fontSize": "27px",
+        "fontWeight": 800,
+        "lineHeight": "33.75px",
+        "letterSpacing": "normal"
+      },
+      "$description": "Section-level headings and card titles"
+    },
+    "Section Heading Medium": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Outfit",
+        "fontSize": "24px",
+        "fontWeight": 800,
+        "lineHeight": "30px",
+        "letterSpacing": "normal"
+      },
+      "$description": "Sub-section headings and feature titles"
+    },
+    "Card Heading": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Outfit",
+        "fontSize": "18px",
+        "fontWeight": 800,
+        "lineHeight": "22.5px",
+        "letterSpacing": "normal"
+      },
+      "$description": "Card and widget headings"
+    },
+    "Small Heading": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Outfit",
+        "fontSize": "17px",
+        "fontWeight": 800,
+        "lineHeight": "35px",
+        "letterSpacing": "normal"
+      },
+      "$description": "Minor headings and list item titles"
+    },
+    "Uppercase Label": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Outfit",
+        "fontSize": "12px",
+        "fontWeight": 800,
+        "lineHeight": "26.25px",
+        "letterSpacing": "2px"
+      },
+      "$description": "Section eyebrow labels, category tags, navigation items — tracked uppercase"
+    },
+    "Nav Label": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Outfit",
+        "fontSize": "12px",
+        "fontWeight": 800,
+        "lineHeight": "20px",
+        "letterSpacing": "1px"
+      },
+      "$description": "Navigation link labels with letter-spacing"
+    },
+    "Body Text": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Outfit",
+        "fontSize": "15px",
+        "fontWeight": 300,
+        "lineHeight": "26.25px",
+        "letterSpacing": "normal"
+      },
+      "$description": "Primary body copy, descriptions, paragraph text"
+    },
+    "Body Regular": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Outfit",
+        "fontSize": "15px",
+        "fontWeight": 400,
+        "lineHeight": "26.25px",
+        "letterSpacing": "normal"
+      },
+      "$description": "Secondary body text, link text, list items"
+    },
+    "Small Body": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Outfit",
+        "fontSize": "16px",
+        "fontWeight": 300,
+        "lineHeight": "26.25px",
+        "letterSpacing": "normal"
+      },
+      "$description": "Slightly larger body variant for introductory paragraphs"
+    }
+  },
+  "spacing": {
+    "xs": {
+      "$type": "dimension",
+      "$value": "5px"
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "10px"
+    },
+    "md-sm": {
+      "$type": "dimension",
+      "$value": "12px"
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "15px"
+    },
+    "md-lg": {
+      "$type": "dimension",
+      "$value": "20px"
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "25px"
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "30px"
+    },
+    "2xl": {
+      "$type": "dimension",
+      "$value": "40px"
+    },
+    "3xl": {
+      "$type": "dimension",
+      "$value": "50px"
+    },
+    "4xl": {
+      "$type": "dimension",
+      "$value": "70px"
+    },
+    "5xl": {
+      "$type": "dimension",
+      "$value": "90px"
+    },
+    "section": {
+      "$type": "dimension",
+      "$value": "120px"
+    },
+    "hero": {
+      "$type": "dimension",
+      "$value": "160px"
+    }
+  },
+  "borderRadius": {
+    "sharp": {
+      "$type": "dimension",
+      "$value": "0px"
+    },
+    "subtle": {
+      "$type": "dimension",
+      "$value": "1px"
+    },
+    "small": {
+      "$type": "dimension",
+      "$value": "5px"
+    },
+    "pill": {
+      "$type": "dimension",
+      "$value": "50px"
+    }
+  }
+}

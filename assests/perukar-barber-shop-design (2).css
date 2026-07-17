@@ -1,0 +1,38 @@
+@theme {
+  /* Colors */
+  --color-deep-espresso: #14100c;
+  --color-warm-taupe: #625c56;
+  --color-gold-bronze: #91765a;
+  --color-pure-white: #ffffff;
+  --color-warm-cream: #f5eee7;
+  --color-light-gray: #f4f4f4;
+  --color-muted-stone: #aba59f;
+  --color-dark-charcoal: #212529;
+  --color-ivory-white: #fdfbf8;
+
+  /* Spacing */
+  --spacing-xs: 5px;
+  --spacing-sm: 10px;
+  --spacing-md-sm: 12px;
+  --spacing-md: 15px;
+  --spacing-md-lg: 20px;
+  --spacing-lg: 25px;
+  --spacing-xl: 30px;
+  --spacing-2xl: 40px;
+  --spacing-3xl: 50px;
+  --spacing-4xl: 70px;
+  --spacing-5xl: 90px;
+  --spacing-section: 120px;
+  --spacing-hero: 160px;
+
+  /* Border Radius */
+  --radius-sharp: 0px;
+  --radius-subtle: 1px;
+  --radius-small: 5px;
+  --radius-pill: 50px;
+
+  /* Fonts */
+  --font-outfit: "Outfit", sans-serif;
+  --font-themify: "themify", sans-serif;
+
+}
